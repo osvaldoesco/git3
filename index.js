@@ -5,6 +5,7 @@ const sum = (a, b) => {
  return a + b;
 };
 
+console.log(`Resutlado de 0 + 0 =`, sum(0,0));
 console.log(`Resutlado de 1 + 1 =`, sum(1,1));
 console.log(`Resutlado de 2 + 2 =`, sum(2,2));
 console.log(`Resutlado de 3 + 3 =`, sum(3,3));
